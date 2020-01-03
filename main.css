@@ -1,0 +1,79 @@
+/**************************
+Body
+************************ */
+body {
+  background-color: #0a0789 !important;
+  color: #dbdde0 !important;
+  font-family: 'Roboto Mono', cursive;
+}
+
+a {
+  color: #32a0a8;
+}
+/**************************
+Header
+************************ */
+.header {
+  background-color: #0a0789;
+  color: #dbdde0;
+  padding: 15px;
+  font-family: 'Roboto Mono', cursive;
+}
+
+.header-title {
+  font-size: 50px;
+}
+
+
+.count {
+  display: inline;
+}
+
+/**************************
+Text output
+************************ */
+.para {
+  background-color: #fff;
+  color: #000;
+  width: 100%;
+  border-radius: 5px;
+  height: 315px;
+  text-align: left;
+}
+/**************************
+API key input box
+************************ */
+.api-input {
+  margin-top: 20px;
+  color: #000;
+}
+/**************************
+Footer
+************************ */
+.foot {
+  text-align: center;
+}
+
+.centered {
+  text-align: center;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 15px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+
+/* Facebook */
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
